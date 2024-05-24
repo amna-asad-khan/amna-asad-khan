@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Amna Asad</h1>
 <h3 align="center">I code poetry through pixels and prose</h3>
 
-<img align="right" alt="a" width="400" scr="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+
 - 🔭 I’m currently working on **Game development**
 
 - 🌱 I’m currently learning **Block chain and Android app development**

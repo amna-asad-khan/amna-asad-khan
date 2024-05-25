@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **018amna@gmail.com**
 
-- 📄 Know about my experiences [http://127.0.0.1:5500/AM.html](http://127.0.0.1:5500/AM.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
